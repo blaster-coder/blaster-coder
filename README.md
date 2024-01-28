@@ -1,13 +1,10 @@
-# <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/> Hola!!
+# Bienvenido a [Nombre de tu Perfil/Proyecto]
 
-![Banner de Condor Coders](banner-github-condor-coders.png)
+¡Hola, soy Adrián Cárdenas! Bienvenido a mi espacio digital donde comparto algunos de mis proyectos personales. 
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@condorcoders)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@condorcoders)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/condorcoders/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/condorcoders/)
+## Acerca de Mí
 
-Comunidad dedicada a aprender y compartir conocimientos en programación y tecnología. Estamos aquí para aprender juntos, compartir experiencias, resolver desafíos y ayudar a cada miembro para que alcance sus metas.
+Soy desarrollador web full stack, apasionado por crear soluciones digitales para empresas o particulares.
 
 ## Tecnologias 💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,29 +16,17 @@ Comunidad dedicada a aprender y compartir conocimientos en programación y tecno
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <br/>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-<br/>
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-## Las estadisticas del repositorio
-![Condor Coders' GitHub stats](https://github-readme-stats.vercel.app/api?username=condorcoders&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=condorcoders&layout=compact&theme=dark)
 
-## Mis ultimos videos de Youtube
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Motívate a programar ✨](https://ytcards.demolab.com/?id=6UxNh_lhdQ8&title=Mot%C3%ADvate+a+programar+%E2%9C%A8&lang=en&timestamp=1706202009&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Motívate a programar ✨")](https://www.youtube.com/watch?v=6UxNh_lhdQ8)
-[![¿Cuánto tiempo es necesario para aprender a programar? 🤔](https://ytcards.demolab.com/?id=uN5qk3d4LBQ&title=%C2%BFCu%C3%A1nto+tiempo+es+necesario+para+aprender+a+programar%3F+%F0%9F%A4%94&lang=en&timestamp=1705683646&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "¿Cuánto tiempo es necesario para aprender a programar? 🤔")](https://www.youtube.com/watch?v=uN5qk3d4LBQ)
-[![Voces Femeninas en STEAM |  Evento por el Día de la Niña y Mujer en la Ciencia](https://ytcards.demolab.com/?id=6lEdeamp-J8&title=Voces+Femeninas+en+STEAM+%7C++Evento+por+el+D%C3%ADa+de+la+Ni%C3%B1a+y+Mujer+en+la+Ciencia&lang=en&timestamp=1705672080&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Voces Femeninas en STEAM |  Evento por el Día de la Niña y Mujer en la Ciencia")](https://www.youtube.com/watch?v=6lEdeamp-J8)
-[![Condor Coders Live Stream](https://ytcards.demolab.com/?id=QxKOqsGDA9g&title=Condor+Coders+Live+Stream&lang=en&timestamp=1705671669&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Condor Coders Live Stream")](https://www.youtube.com/watch?v=QxKOqsGDA9g)
-[![Tutorial de Github Profiles](https://ytcards.demolab.com/?id=btlEy8nGOrY&title=Tutorial+de+Github+Profiles&lang=en&timestamp=1705597207&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Tutorial de Github Profiles")](https://www.youtube.com/watch?v=btlEy8nGOrY)
-[![Componentes UI ✨ React + Tailwind CSS + Framer motion](https://ytcards.demolab.com/?id=-HPB_xsdtlI&title=Componentes+UI+%E2%9C%A8+React+%2B+Tailwind+CSS+%2B+Framer+motion&lang=en&timestamp=1705597200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Componentes UI ✨ React + Tailwind CSS + Framer motion")](https://www.youtube.com/watch?v=-HPB_xsdtlI)
-<!-- END YOUTUBE-CARDS -->
+## Cómo Contactarme
+
+Si tienes preguntas, sugerencias o simplemente quieres charlar sobre tecnología, no dudes en ponerte en contacto conmigo:
+
+- Email: adriancardenasranchal@gmail.com
+- LinkedIn: https://www.linkedin.com/in/adrianca/
+
+¡Gracias por visitar! Espero que encuentres interesantes mis proyectos.
+
+---
+
+© 2024 Adrián Cárdenas
