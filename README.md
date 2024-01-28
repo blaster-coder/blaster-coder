@@ -14,6 +14,8 @@ Soy desarrollador web full stack, apasionado por crear soluciones digitales para
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Astro](https://img.shields.io/badge/Astro-%23430098?style=for-the-badge&logo=astro&logoColor=white)
+
 
 
 ## Cómo Contactarme
