@@ -25,7 +25,7 @@ Si tienes preguntas, sugerencias o simplemente quieres charlar sobre tecnología
 - Email: adriancardenasranchal@gmail.com
 - LinkedIn: https://www.linkedin.com/in/adrianca/
 
-¡Gracias por visitar! Espero que encuentres interesantes mis proyectos.
+¡Gracias por visitar!
 
 ---
 
