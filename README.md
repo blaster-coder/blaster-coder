@@ -22,7 +22,7 @@ Si tienes preguntas, sugerencias o simplemente quieres charlar sobre tecnología
 
 - Email: adriancardenasranchal@gmail.com
 - LinkedIn: [Adrián Cárdenas](https://www.linkedin.com/in/adrianca/)
-
+- Portfolio: https://adriancardenas.netlify.app/
 ¡Gracias por visitar! ✨
 
 ---
